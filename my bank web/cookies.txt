@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+gatehousebank.com	TRUE	/	FALSE	1999999999	CraftSessionId	81101g1ddufb7gnvcg6s97q3p3
+gatehousebank.com	TRUE	/	FALSE	1999999999	CRAFT_CSRF_TOKEN	2978b6cf9f92246e26e2c67595cdfbb8318febe6633428cb749321be091f833aa%3A2%3A%7Bi%3A0%3Bs%3A16%3A%22CRAFT_CSRF_TOKEN%22%3Bi%3A1%3Bs%3A40%3A%22KGtlitnCtBIqdJ310IrXbFY7dvq4OUw6TqfWpy0a%22%3B%7D
+
